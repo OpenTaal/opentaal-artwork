@@ -1,2 +1,3 @@
-# artwork
-Afbeeldingen voor OpenTaal
+# OpenTaal artwork
+
+Afbeeldingen voor OpenTaal gemaakt met Inkscape.

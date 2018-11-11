@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg100545"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo-shape-all-trans.svg">
+  <defs
+     id="defs100539" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76302083"
+     inkscape:cx="523.57678"
+     inkscape:cy="540"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <metadata
+     id="metadata100542">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249974)">
+    <g
+       id="g834">
+      <path
+         sodipodi:nodetypes="cccccccssssscc"
+         inkscape:connector-curvature="0"
+         d="m 135.5294,259.88612 6.2627,-5.49308 M 130.18184,196.3906 c 40.26102,6.30527 13.22968,52.85567 5.34756,63.49552 45.79961,-21.34482 54.55788,-55.42881 83.46463,-53.63003 m -0.75442,-0.039 c 18.39151,0.55205 15.70902,0.81575 35.76039,0.84688 63.50553,10e-6 124.41007,-7.80518 169.31526,-21.6985 44.90519,-13.89332 70.13265,-32.73638 70.13265,-52.38451 0,-19.64812 -25.22746,-38.491829 -70.13265,-52.38515 C 378.41007,66.702471 317.50553,58.897284 254,58.897287 190.49446,58.897284 129.58994,66.702471 84.684745,80.59579 39.779549,94.489111 14.552078,113.3325 14.552089,132.98062 14.867395,156.81939 51.693485,181.5866 130.18184,196.3906"
+         style="fill:none;fill-opacity:1;stroke:#060000;stroke-width:10.58333302;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path101522-5" />
+      <text
+         id="text101475"
+         y="161.27097"
+         x="242.66441"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583325px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           dx="0 0 0 0 0 0.5"
+           style="font-weight:bold;font-size:77.6111145px;text-align:center;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:middle;stroke-width:0.26458332"
+           y="161.27097"
+           x="242.79671"
+           id="tspan101473"
+           sodipodi:role="line">OpenTaal</tspan></text>
+    </g>
+  </g>
+</svg>
