@@ -12,10 +12,12 @@ cd ..
 rm -rf tmp
 # custom sizes
 i=logo-shape-trans
-inkscape -z -f svg/$i.svg -w 341 -e png/$i-341x192.png 2>&1 >/dev/null
+d=341
+inkscape -z -f svg/$i.svg -w $d -e png/$i-$d'x'192.png 2>&1 >/dev/null
 i=icon-shape-trans
-inkscape -z -f svg/$i.svg -w 200 -h 200 -e png/$i-200x200.png 2>&1 >/dev/null
-inkscape -z -f svg/$i.svg -w 64 -h 64 -e png/$i-64x64.png 2>&1 >/dev/null
+for d in 57 64 114 200; do
+	inkscape -z -f svg/$i.svg -w $d -h $d -e png/$i-$d'x'$d.png 2>&1 >/dev/null
+done
 
 # ico
 convert png/icon-shape-trans-512x512.png -define icon:auto-resize=64,48,32,16 ico/icon-shape-trans-64-48-32-16.ico
