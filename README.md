@@ -39,4 +39,4 @@ bestandsnaam de afmetingen in pixels.
 De lichtblauwe steunkleur is `#9bcdff`. Het kleurverloop eindigt in `#f4faff`,
 dat bijna wit is.
 
-![Logo OpenTaal](png/logo-shape-trans.png?raw=true)
+![Logo OpenTaal](png/logo-shape-trans-1920x1080.png?raw=true)
