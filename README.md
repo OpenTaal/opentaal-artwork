@@ -36,7 +36,12 @@ bestandsnaam de afmetingen in pixels.
 
 ## Kleuren
 
-De lichtblauwe steunkleur is `#9bcdff`. Het kleurverloop eindigt in `#f4faff`,
-dat bijna wit is.
+De lichtblauwe steunkleur is _Light Blue A700_ `#0091ea` van Material Design van
+Google. Tekst kan in deze kleur op witte achtergrond of hierop kan witte tekst.
+Donkere accenten kunnen met _Light Blue 900_ `#01579B`.
+
+
+Het kleurverloop in het logo begint bij
+`#9bcdff` en eindigt in `#f4faff`, dat bijna wit is.
 
 ![Logo OpenTaal](png/logo-shape-trans-1920x1080.png?raw=true)
