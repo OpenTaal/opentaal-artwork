@@ -10,7 +10,12 @@ for i in `ls *.png|sort`; do
 done
 cd ..
 rm -rf tmp
+
 # custom sizes
+i=logo-shape-white
+d=640
+inkscape -z -f svg/$i.svg -w $d -e png/$i-$d'x'360.png 2>&1 >/dev/null
+
 i=logo-shape-trans
 d=341
 inkscape -z -f svg/$i.svg -w $d -e png/$i-$d'x'192.png 2>&1 >/dev/null
