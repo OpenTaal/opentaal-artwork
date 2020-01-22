@@ -19,9 +19,11 @@ inkscape -z -f svg/$i.svg -w $d -e png/$i-$d'x'360.png 2>&1 >/dev/null
 i=logo-shape-trans
 d=341
 inkscape -z -f svg/$i.svg -w $d -e png/$i-$d'x'192.png 2>&1 >/dev/null
+optipng -quiet png/$i-$d'x'192.png -out png/$i-$d'x'192.png
 i=icon-shape-trans
 for d in 57 64 114 200; do
 	inkscape -z -f svg/$i.svg -w $d -h $d -e png/$i-$d'x'$d.png 2>&1 >/dev/null
+	optipng -quiet png/$i-$d'x'$d.png -out png/$i-$d'x'$d.png
 done
 
 # ico

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.77in"
+   height="2.05in"
+   viewBox="0 0 44.958 52.07"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="sticker-hexagon-trans-drukbedrijf.svg"
+   inkscape:export-filename="/home/sander/workspace/opentaal-artwork/svg/sticker-hexagon2.png"
+   inkscape:export-xdpi="256"
+   inkscape:export-ydpi="256">
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)"
+       y2="67.103897"
+       y1="2.3333001"
+       x2="93.700401"
+       x1="93.700401"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_5_">
+      <stop
+         style="stop-color:#795548;stop-opacity:1"
+         id="stop1237"
+         offset="0" />
+      <stop
+         style="stop-color:#3e2723;stop-opacity:1"
+         id="stop1239"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_-2"
+       gradientUnits="userSpaceOnUse"
+       x1="19.655199"
+       x2="19.655199"
+       y1="93"
+       y2="126.4398"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)">
+      <stop
+         offset="0"
+         style="stop-color:#E0E0E0"
+         id="stop2-9" />
+      <stop
+         offset="0.9954"
+         style="stop-color:#9E9E9E"
+         id="stop4-1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="91.674698"
+       x2="91.674698"
+       y1="-7.6666999"
+       y2="35.475498"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         id="stop11"
+         style="stop-color:#fb8c00;stop-opacity:1" />
+      <stop
+         offset="0.97649997"
+         id="stop13"
+         style="stop-color:#ef6c00;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop15"
+         style="stop-color:#ff6d00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_6_"
+       gradientUnits="userSpaceOnUse"
+       x1="113.3457"
+       x2="113.3457"
+       y1="2.5"
+       y2="25.2547"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)">
+      <stop
+         offset="0"
+         id="stop53"
+         style="stop-color:#ff9800;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop55"
+         style="stop-color:#f57c00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_3_"
+       gradientUnits="userSpaceOnUse"
+       x1="27.013201"
+       x2="27.013201"
+       y1="89.666702"
+       y2="108.6667"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)">
+      <stop
+         offset="0"
+         id="stop28"
+         style="stop-color:#ff9800;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop30"
+         style="stop-color:#f57c00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_4_"
+       gradientUnits="userSpaceOnUse"
+       x1="51.882999"
+       x2="51.882999"
+       y1="40"
+       y2="108.6588"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)">
+      <stop
+         offset="0"
+         id="stop35"
+         style="stop-color:#4e342e;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop37"
+         style="stop-color:#3e2723;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_5_-3"
+       gradientUnits="userSpaceOnUse"
+       x1="93.700401"
+       x2="93.700401"
+       y1="2.3333001"
+       y2="67.103897"
+       gradientTransform="matrix(-1,0,0,1,127.98764,0)">
+      <stop
+         offset="0"
+         id="stop46"
+         style="stop-color:#5d4037;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop48"
+         style="stop-color:#3e2723;stop-opacity:1" />
+    </linearGradient>
+    <clipPath
+       id="SVGID_8_">
+      <use
+         id="use67"
+         xlink:href="#SVGID_7_"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 123.73,15.91 -0.14,-0.14 c 1.22,-2.54 -0.41,-5.49 -3.15,-8.22 -2.74,-2.73 -5.68,-4.37 -8.22,-3.15 l -0.14,-0.14 c 0,0 -23.31,16.29 -48.16,42.3 -0.72,0.75 -0.7,1.94 0.03,2.68 l 7.41,7.41 7.41,7.41 c 0.73,0.73 1.93,0.75 2.68,0.03 26,-24.86 42.28,-48.18 42.28,-48.18 z"
+       id="SVGID_7_"
+       inkscape:connector-curvature="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#background"
+       id="linearGradient916"
+       gradientUnits="userSpaceOnUse"
+       x1="135.53159"
+       y1="48.082447"
+       x2="135.53159"
+       y2="242.18916"
+       gradientTransform="translate(0,5.2916667)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="background">
+      <stop
+         style="stop-color:#9bcdff;stop-opacity:1"
+         offset="0"
+         id="stop908" />
+      <stop
+         style="stop-color:#f4faff;stop-opacity:1"
+         offset="1"
+         id="stop910" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.4563009"
+     inkscape:cx="84.959999"
+     inkscape:cy="98.399998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sander van Geloven</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Nuspell</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.92998)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.10000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000005;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.372852"
+       y="285.26746"
+       id="text1157-3-3"><tspan
+         sodipodi:role="line"
+         x="22.372852"
+         y="285.26746"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000005;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan919">Taal is van ons</tspan><tspan
+         sodipodi:role="line"
+         x="22.372852"
+         y="289.67093"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000005;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1000">allemaal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.10000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000005;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.517843"
+       y="256.76218"
+       id="text1157-3-3-2"><tspan
+         sodipodi:role="line"
+         x="22.517843"
+         y="256.76218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000005;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan990">Nederlandse</tspan><tspan
+         sodipodi:role="line"
+         x="22.517843"
+         y="261.16565"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000005;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan998">schrijfhulpbestanden</tspan></text>
+    <g
+       id="g955"
+       transform="matrix(0.07559055,0,0,0.07559055,3.2790006,260.99532)">
+      <path
+         sodipodi:nodetypes="cccccccssssscc"
+         inkscape:connector-curvature="0"
+         d="m 135.5294,259.65461 6.2627,-5.49308 m -11.61026,-58.00244 c 40.26102,6.30527 13.22968,52.85567 5.34756,63.49552 45.79961,-21.34482 54.55788,-55.42881 83.46463,-53.63003 m -0.75442,-0.039 c 18.39151,0.55205 15.70902,0.81575 35.76039,0.84688 63.50553,1e-5 124.41007,-7.80518 169.31526,-21.6985 44.90519,-13.89332 70.13265,-32.73638 70.13265,-52.38451 0,-19.64812 -25.22746,-38.491827 -70.13265,-52.385148 C 378.41007,66.470963 317.50553,58.665776 254,58.665779 190.49446,58.665776 129.58994,66.470963 84.684745,80.364282 39.779549,94.257603 14.552078,113.10099 14.552089,132.74911 c 0.315306,23.83877 37.141396,48.60598 115.629751,63.40998"
+         style="fill:url(#linearGradient916);fill-opacity:1;stroke:#060000;stroke-width:10.58333302;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path101522-5" />
+      <text
+         id="text101475"
+         y="161.03946"
+         x="242.66441"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583325px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           dx="0 0 0 0 0 0.5"
+           style="font-weight:bold;font-size:77.6111145px;text-align:center;letter-spacing:0.26458332px;word-spacing:0px;text-anchor:middle;stroke-width:0.26458332"
+           y="161.03946"
+           x="242.79671"
+           id="tspan101473"
+           sodipodi:role="line">OpenTaal</tspan></text>
+    </g>
+  </g>
+</svg>
