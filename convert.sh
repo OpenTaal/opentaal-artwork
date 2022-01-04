@@ -1,8 +1,17 @@
+#!/bin/bash
+set -e
+
+if [ $(flatpak list|grep org.inkscape.Inkscape|wc -l) -gt 0 ]; then
+    EXE=$(echo flatpak run org.inkscape.Inkscape)
+else
+    EXE=$(echo inkscape)
+fi
+
 # png
 mkdir tmp
 cd svg
 for i in `ls *.svg|sort`; do
-	inkscape $i -C -o ../tmp/`basename $i svg`png 2>&1 >/dev/null
+	$EXE $i -TCo ../tmp/`basename $i svg`png 2>&1 >/dev/null
 done
 cd ../tmp
 for i in `ls *.png|sort`; do
@@ -14,18 +23,18 @@ rm -rf tmp
 # custom sizes
 d=640
 i=logo-shape-white
-inkscape svg/$i.svg -w $d -C -o png/$i-$d'x'360.png 2>&1 >/dev/null
+$EXE svg/$i.svg -w $d -TCo png/$i-$d'x'360.png 2>&1 >/dev/null
 i=logo-shape-trans
-inkscape svg/$i.svg -w $d -C -o png/$i-$d'x'360.png 2>&1 >/dev/null
+$EXE svg/$i.svg -w $d -TCo png/$i-$d'x'360.png 2>&1 >/dev/null
 
 i=logo-shape-trans
 d=341
-inkscape svg/$i.svg -w $d -C -o png/$i-$d'x'192.png 2>&1 >/dev/null
-optipng -quiet png/$i-$d'x'192.png -out png/$i-$d'x'192.png
+$EXE svg/$i.svg -w $d -TCo png/$i-$d'x'192.png 2>&1 >/dev/null
+optipng -quiet png/$i-$d'x'192.png
 i=icon-shape-trans
-for d in 57 64 114 200; do
-	inkscape svg/$i.svg -w $d -h $d -C -o png/$i-$d'x'$d.png 2>&1 >/dev/null
-	optipng -quiet png/$i-$d'x'$d.png -out png/$i-$d'x'$d.png
+for d in 42 57 64 114 200; do
+	$EXE svg/$i.svg -w $d -h $d -TCo png/$i-$d'x'$d.png 2>&1 >/dev/null
+	optipng -quiet png/$i-$d'x'$d.png
 done
 
 # ico
