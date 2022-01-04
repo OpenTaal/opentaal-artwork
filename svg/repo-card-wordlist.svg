@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="640"
+   viewBox="0 0 338.66666 169.33334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="repo-card-wordlist.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="1280px"
+     inkscape:zoom="0.84453125"
+     inkscape:cx="640.59204"
+     inkscape:cy="320.88807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="14.111111,169.33333"
+       orientation="-1,0"
+       id="guide851"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,155.22222"
+       orientation="0,1"
+       id="guide853"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,14.111111"
+       orientation="0,1"
+       id="guide855"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="324.55556,169.33333"
+       orientation="-1,0"
+       id="guide857"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#background"
+       id="linearGradient916"
+       gradientUnits="userSpaceOnUse"
+       x1="135.53159"
+       y1="48.082447"
+       x2="135.53159"
+       y2="242.18916"
+       gradientTransform="translate(0,5.2916667)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="background">
+      <stop
+         style="stop-color:#9bcdff;stop-opacity:1"
+         offset="0"
+         id="stop908" />
+      <stop
+         style="stop-color:#f4faff;stop-opacity:1"
+         offset="1"
+         id="stop910" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g955"
+       transform="matrix(0.29179699,0,0,0.29179699,95.216898,10.883924)">
+      <path
+         sodipodi:nodetypes="cccccccssssscc"
+         inkscape:connector-curvature="0"
+         d="m 135.5294,259.65461 6.2627,-5.49308 m -11.61026,-58.00244 c 40.26102,6.30527 13.22968,52.85567 5.34756,63.49552 45.79961,-21.34482 54.55788,-55.42881 83.46463,-53.63003 m -0.75442,-0.039 c 18.39151,0.55205 15.70902,0.81575 35.76039,0.84688 63.50553,1e-5 124.41007,-7.80518 169.31526,-21.6985 44.90519,-13.89332 70.13265,-32.73638 70.13265,-52.38451 0,-19.64812 -25.22746,-38.491827 -70.13265,-52.385148 C 378.41007,66.470963 317.50553,58.665776 254,58.665779 190.49446,58.665776 129.58994,66.470963 84.684745,80.364282 39.779549,94.257603 14.552078,113.10099 14.552089,132.74911 c 0.315306,23.83877 37.141396,48.60598 115.629751,63.40998"
+         style="fill:url(#linearGradient916);fill-opacity:1;stroke:#060000;stroke-width:10.5833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path101522-5" />
+      <text
+         id="text101475"
+         y="161.03946"
+         x="242.66441"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           dx="0 0 0 0 0 0.5"
+           style="font-weight:bold;font-size:77.6111px;text-align:center;letter-spacing:0.264583px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           y="161.03946"
+           x="242.79671"
+           id="tspan101473"
+           sodipodi:role="line">OpenTaal</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04118"
+       x="168.81313"
+       y="114.91113"
+       id="text1157-3-3-2"><tspan
+         sodipodi:role="line"
+         x="168.81313"
+         y="114.91113"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.04118"
+         id="tspan998"><tspan
+   id="tspan15697"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.04118">Nederlandse woordenlijst – </tspan>Dutch word list</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04118"
+       x="169.67645"
+       y="131.50211"
+       id="text1157-3-3-2-3"><tspan
+         sodipodi:role="line"
+         x="169.67645"
+         y="131.50211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.04118"
+         id="tspan998-7"> Vrije en open woordenlijst van OpenTaal met meer dan 400.000 woorden.</tspan><tspan
+         sodipodi:role="line"
+         x="169.67645"
+         y="141.1097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.04118"
+         id="tspan33182">Free and open word list by5 OpenTaal with over 400,000 words.</tspan></text>
+  </g>
+</svg>
